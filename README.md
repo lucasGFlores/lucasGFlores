@@ -14,15 +14,13 @@
   <img align="center" alt="Fusca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Fusca-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Fusca-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- 
-   <img align="center" alt="Fusca-docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 ##
 
 
  <a href = "mailto:lucasgabrielflores25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "mailto:lucasgabrielflores25@gmail.com"><img src="https://img.shields.io/badge/-curriculum-EE964B?style=for-the-badge&logo=curriculum%Color=white" target="_blank"></a>
+
  
  
  ![Snake animation](https://github.com/lucasGFlores/Portifolio/blob/output/github-contribution-grid-snake.svg)
