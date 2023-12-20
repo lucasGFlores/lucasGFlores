@@ -1,5 +1,5 @@
-### Bom dia, boa tarde ou boa noite
-# Meu nome é Lucas Gabriel Flores. Atualmente estou estudando na Unisul da cidade de Palhoça e busco sempre formas diferentes e interessantes de solucionar problemas com as diversas linguagens de programação
+## Bom dia, boa tarde ou boa noite
+### Meu nome é Lucas Gabriel Flores. Atualmente estou estudando na Unisul da cidade de Palhoça e busco sempre formas diferentes e interessantes de solucionar problemas com as diversas linguagens de programação
  - 📚 estudando Rust e Tauri (para desenvolvimento de programas)
  - 👩‍💻 trabalhando num projeto de terminal em Rust
  
