@@ -6,13 +6,12 @@
  - 👩‍💻 Aplicando em alguns projetos python usando pyside6 como forma de interface
  - 📚 Estudando um pouco de Docker e Testes automatizados para os projetos
  - 👀 Futuramente, pretendo estudar C++ para melhor entendimento do baixo nível
- 
+   
+ <div style="display: inline_block"><br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasGFlores&theme=tokyonight&layout=compact&height="300cm"&text_color=9dbebb&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> 
 <div style="display: inline_block"><br>
-
-
  ## 🖥️ Tecnologias usadas:
  
   <img align="center" alt="Logo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
