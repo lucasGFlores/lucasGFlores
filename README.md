@@ -2,9 +2,9 @@
  Meu nome é Lucas Gabriel Flores. Atualmente estou estudando na Unisul da cidade de Palhoça e busco sempre formas diferentes e interessantes de solucionar problemas com as diversas linguagens de programação
 
  ## O que estou fazendo atualemnte
- - 📚 estudando Rust para programas de terminal
- - 👩‍💻 Aprendendo a usar Pyside6 do python
- - 👀 Futuramente, pretendo estudar C++ para uso de inteligência artificiais
+ - 👩‍💻 Aplicando em alguns projetos python usando pyside6 como forma de interface
+ - 📚 Estudando um pouco de Docker e Testes automatizados para os projetos
+ - 👀 Futuramente, pretendo estudar C++ para melhor entendimento do baixo nível
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasGFlores&theme=tokyonight&layout=compact&height="300cm"&text_color=9dbebb&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
  
