@@ -13,6 +13,7 @@
  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> 
 <div style="display: inline_block"><br>
+ 
  ## 🖥️ Tecnologias usadas:
  
   <img align="center" alt="Logo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
