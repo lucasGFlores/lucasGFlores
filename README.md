@@ -6,26 +6,27 @@
  - 👩‍💻 Aplicando em alguns projetos python usando pyside6 como forma de interface
  - 📚 Estudando um pouco de Docker e Testes automatizados para os projetos
  - 👀 Futuramente, pretendo estudar C++ para melhor entendimento do baixo nível
-   
- <div style="display: inline_block"><br>
- 
+
+ ## 🖥️ Tecnologias usadas:
+  [![My Skills](https://skillicons.dev/icons?i=py,qt,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
+
+## 🎉 Projetos já feitos
+- [programa de emprestimo](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp)
+- [e-commerce ficticio](https://github.com/lucasGFlores/star-wars-venda-automotiva)
+
+## ⚙️ Projetos em produção
+ - [mandarim reader](https://github.com/lucasGFlores/MandarimReader)
+
+## 📞 Contatos
+[![Email](https://img.shields.io/badge/Email-lucas.gabriel.floresdev@gmail.com-green)](mailto:lucas.gabriel.floresdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-green?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriel-flore/)](https://www.linkedin.com/in/lucas-gabriel-flore/)
+
+Caso queira conversar para fazer um projeto, falar de uma oportunidade ou apenas bater um papo estarei a disposição. Siga em meus contatos para que a gente possa se conectar.
+
+---
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasGFlores&theme=tokyonight&layout=compact&height="300cm"&text_color=9dbebb&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> 
-<div style="display: inline_block"><br>
- 
- ## 🖥️ Tecnologias usadas:
- 
-  <img align="center" alt="Logo-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-  <img align="center" alt="Logo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />        
-  <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-<div style="display: inline_block"><br>
- 
- <a href = "mailto:lucasgabrielflores25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
  
