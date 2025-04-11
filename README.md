@@ -12,8 +12,8 @@
   [![My Skills](https://skillicons.dev/icons?i=ts,react)](https://skillicons.dev)
 
 ## 🎉 Projetos já feitos
-- [programa de emprestimo](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp)
-- [e-commerce ficticio](https://github.com/lucasGFlores/star-wars-venda-automotiva)
+- [programa de emprestimo](https://github.com/xrkmed/Unisul_EmprestimoDeFerramentasApp) (feito em java ♨️)
+- [e-commerce ficticio](https://github.com/lucasGFlores/star-wars-venda-automotiva) (feito com typeScript e react ⚛)
 
 ## ⚙️ Projetos em produção
  - [mandarim reader](https://github.com/lucasGFlores/MandarimReader)
